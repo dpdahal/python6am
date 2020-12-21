@@ -61,3 +61,5 @@
 # print(p * t * r / 100)
 
 # print((2 + 3) * (5 - 3) / 2)
+
+print("Hello Python")
