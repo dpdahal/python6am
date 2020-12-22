@@ -2,5 +2,6 @@
 
 * Introduction
 * Operators
+* Data Types
 
 
