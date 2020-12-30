@@ -9,6 +9,20 @@
     4. Mapping: dict
     5. Set: set
     6. Boolean: True, False
+
+# Condition Statements
+
+1. if, elif, else
+2. loop: for while
+
+# Loop
+
+1. While
+    - Break
+    - Continue
+2. For
+    - range - in built function
+   
     
 
 
